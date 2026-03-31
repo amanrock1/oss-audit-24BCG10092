@@ -29,6 +29,11 @@ DATE=$(date '+%d %B %Y')
 OUTPUT="manifesto_$(whoami).txt"
 
 # Write manifesto
+echo "Manifesto saved to $OUTPUT"
+
+echo ""
+echo "Generated Manifesto:"
+echo "--------------------------------"
 
 echo "On $DATE. Was messing around with $TOOL and it hit me—open source is really just about $FREEDOM" > $OUTPUT
 
@@ -41,9 +46,4 @@ echo "" >> $OUTPUT
 echo "Open source lets knowledge grow wild. And somehow, that brings people together to build stuff that actually matters." >> $OUTPUT
 
 echo ""
-echo "Manifesto saved to $OUTPUT"
-
-echo ""
-echo "Generated Manifesto:"
-echo "--------------------------------"
 cat $OUTPUT

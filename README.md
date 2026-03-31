@@ -19,19 +19,19 @@
 **Software Category:** Relational Database Management System (RDBMS)
 **License Type:** GNU General Public License (GPL)
 
-MySQL is a widely used open-source relational database management system used for storing structured data. It supports multiple users, high-speed queries, and efficient data storage. It is commonly used in web applications, enterprise systems, and data-driven platforms.
+MySQL is a widely used open-source relational database management system designed for storing and managing structured data. It supports multiple users, offers fast query performance, and ensures efficient data handling. It is commonly used in web applications, enterprise systems, and other data-driven platforms.
 
-This project demonstrates the installation, inspection, and automation of MySQL using Linux shell scripting techniques.
+This project showcases the installation, inspection, and basic automation of MySQL using Linux shell scripting techniques.
 
 ---
 
 ## Project Description
 
-This project focuses on studying open-source software and developing Linux shell scripts to automate system-level operations. The software selected for this project is MySQL, which was installed on Ubuntu Linux using Windows Subsystem for Linux (WSL).
+This project is based on exploring open-source software and creating Linux shell scripts to automate system-level tasks. The software chosen for this study is MySQL, which was installed on Ubuntu Linux through Windows Subsystem for Linux (WSL).
 
-Five shell scripts were developed to demonstrate practical Linux automation skills such as system inspection, package verification, directory auditing, log file analysis, and user interaction.
+As part of the project, five shell scripts were created to demonstrate practical Linux automation skills. These scripts perform tasks such as system inspection, package verification, directory auditing, log file analysis, and basic user interaction.
 
-The project helps build understanding of open-source tools and their usage in Linux environments.
+Overall, the project helps in developing a better understanding of open-source tools and their practical use in a Linux environment.
 
 ---
 
@@ -249,9 +249,9 @@ Through this project, the following technical skills were developed:
 
 # Conclusion
 
-This project provided practical exposure to Linux-based open-source environments and database software management. MySQL was successfully installed and analyzed within Ubuntu Linux, and five shell scripts were developed to automate system tasks.
+This project provided hands-on experience with Linux-based open-source environments and database management. MySQL was successfully installed and examined within Ubuntu Linux, and five shell scripts were created to automate various system tasks.
 
-The project strengthened knowledge of Linux scripting, system-level operations, and open-source tools. It also demonstrated the importance of automation in improving efficiency and reliability in computing systems.
+The project helped strengthen understanding of Linux scripting, system-level operations, and open-source tools. It also highlighted the role of automation in improving efficiency and reliability in computing systems.
 
 ---
 
